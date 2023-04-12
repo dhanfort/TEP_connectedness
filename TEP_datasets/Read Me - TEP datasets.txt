@@ -1,0 +1,9 @@
+TEP Datasets:
+
+Before running the R-codes, please download the TEP datasets from the publisher Harvard dataverse, which is open access.
+
+The TEP dataset files are too large to be stored in this GitHub repo for the project.
+
+The data files are in ".RData" format, which is the compatible data/workspace format when working in R.
+
+Here is the TEP dataset URL: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6C3JR1
