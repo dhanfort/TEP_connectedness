@@ -1,8 +1,8 @@
 ################################################################################
 #
 # This R-code is for the paper by D.L.B. Fortela and A.P. Mikolajczyk
-# "Adopting Econometrics Models and Techniques for Detection of Volatility Spillover 
-# Effects of Disturbances in A Chemical Process Plant" (2023)
+# "Detecting Plant-wide Oscillation Propagation Effects of Disturbances and Faults 
+# in A Chemical Process Plant Using Network Topology of Variance Decompositions" (2023)
 #
 #
 # This analysis uses the codes and models developed and implemented by 
