@@ -8,3 +8,4 @@ The TEP datasets used are those created and published by Rieth C.A., et al. (201
 The connectedness computations were implemented using the "ConnectednessApproach" R-package by	David Gabauer :https://CRAN.R-project.org/package=ConnectednessApproach
 
 
+Check the published paper about this work in the journal here: Fortela, D.L.B.; Mikolajczyk, A.P. Detecting Plant-Wide Oscillation Propagation Effects of Disturbances and Faults in a Chemical Process Plant Using Network Topology of Variance Decompositions. Processes 2023, 11, 1747. https://doi.org/10.3390/pr11061747
